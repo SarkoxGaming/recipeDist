@@ -1,0 +1,16 @@
+{
+  "recipes": "Recipes",
+  "profile": "Profile",
+  "log_out": "Log out",
+  "log_in": "Log In",
+  "my_recipes": "My Recipes",
+  "form": {
+    "name": "Name",
+    "description": "Description",
+    "category": "Category",
+    "action": "Action",
+    "edit": "Edit",
+    "delete": "Delete",
+    "empty": "You don't have any recipe!"
+  }
+}
